@@ -1,4 +1,4 @@
-var	port = process.env.OPENSHIFT_NODEJS_PORT,
+vvar origin = 'wisenynjas.com:80,www.wisenynjas.com:80';
 	ip = process.env.OPENSHIFT_NODEJS_IP;
 
 var http = require('http'),
